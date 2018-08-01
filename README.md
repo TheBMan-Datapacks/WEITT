@@ -1,5 +1,5 @@
-# Wawla
-Wawla(What Are We Looking At) is a Minecraft 1.13 datapack API based off of the Mod Waila. This API is optional on any pack that supports
+# WEITT
+WEITT(What Even Is That Thing?) is a Minecraft 1.13 datapack API based off of the Mod Waila. This API is optional on any pack that supports
 it, meaning it is the players choice to use it or not
 
 # How Does It Work?
@@ -11,4 +11,5 @@ please check the wiki.
 # Dowload?
 ![Download on dManager](http://stevertus.ga/dManager-button.png)
 
+v0.2 - 
 v0.1 - https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip
