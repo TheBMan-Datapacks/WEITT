@@ -7,3 +7,6 @@ A player will spawn with a book named wawla(if they lose the book, they need to 
 supported block they look at will tell the name, and what pack it is from on the actionbar. The datapack comes with support for many items
 in vanilla Minecraft, but not all, because it is meant for datapacks. If you are interested in adding wawla support for your datapack, 
 please check the wiki.
+
+#Dowload?
+v0.1 - https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip
