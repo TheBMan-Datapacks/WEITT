@@ -9,5 +9,5 @@ in vanilla Minecraft, but not all, because it is meant for datapacks. If you are
 please check the wiki.
 
 # Dowload?
-![http://stevertus.ga/dManager-button.png](http://stevertus.ga/dManager)
+![Download on dManager](http://stevertus.ga/dManager-button.png)
 v0.1 - https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip
