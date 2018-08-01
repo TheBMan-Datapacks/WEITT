@@ -9,7 +9,13 @@ in vanilla Minecraft, but not all, because it is meant for datapacks. If you are
 please check the wiki.
 
 # Dowload?
-![Download on dManager](http://stevertus.ga/dManager-button.png)
+![http://stevertus.ga/dManager](http://stevertus.ga/dManager-button.png)
 
-v0.2 - 
+v0.2 - https://github.com/TheBMan-Datapacks/WEITT/raw/master/WEITT.zip
+
+-renamed to What Even Is That Thing?
+
+-Fixed Issues caused in multiplayer
+
 v0.1 - https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip
+-release
