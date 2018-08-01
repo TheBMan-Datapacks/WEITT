@@ -8,5 +8,5 @@ supported block they look at will tell the name, and what pack it is from on the
 in vanilla Minecraft, but not all, because it is meant for datapacks. If you are interested in adding wawla support for your datapack, 
 please check the wiki.
 
-#Dowload?
+# Dowload?
 v0.1 - https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip
