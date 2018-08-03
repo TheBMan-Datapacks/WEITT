@@ -11,7 +11,7 @@ please check the wiki.
 # Dowload?
 ![http://stevertus.ga/dManager](http://stevertus.ga/dManager-button.png)
 
-v0.3 -
+v0.3 - https://github.com/TheBMan-Datapacks/WEITT/raw/master/WEITT.zip
 
 -bug fixes
 
