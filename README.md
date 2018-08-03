@@ -11,6 +11,10 @@ please check the wiki.
 # Dowload?
 ![http://stevertus.ga/dManager](http://stevertus.ga/dManager-button.png)
 
+v0.3 -
+
+-bug fixes
+
 v0.2 - https://github.com/TheBMan-Datapacks/WEITT/raw/master/WEITT.zip
 
 -renamed to What Even Is That Thing?
